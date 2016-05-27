@@ -1,0 +1,27 @@
+{
+  "name": "express.server",
+  "version": "1.0.0",
+  "description": "a quick server for practicing file serving",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobensg/expressServer.git"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "practice"
+  ],
+  "author": "Toben Green",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobensg/expressServer/issues"
+  },
+  "homepage": "https://github.com/tobensg/expressServer#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
